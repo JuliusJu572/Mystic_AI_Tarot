@@ -1,7 +1,7 @@
 import { TarotCard } from './types';
 
-// Source: Local images stored in the /imgs directory (based on user description)
-const BASE_URL = "/imgs";
+// Source: Local images stored in the /cards directory in public
+const BASE_URL = "/cards";
 
 // --- DICTIONARY MAPPING ---
 // Based on the user's file explorer screenshot.
