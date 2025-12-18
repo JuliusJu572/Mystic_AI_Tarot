@@ -1,0 +1,8 @@
+{
+  "name": "Mystic AI Tarot",
+  "description": "An immersive Tarot reading experience using AI for interpretation and hand-tracking for card selection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
